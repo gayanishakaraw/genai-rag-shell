@@ -1,0 +1,11 @@
+streamlit
+openai
+streamlit-chat
+openai
+watchdog
+PyMuPDF
+python-docx
+langchain
+faiss-cpu
+langchain-community
+tiktoken
